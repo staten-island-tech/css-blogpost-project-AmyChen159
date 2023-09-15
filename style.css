@@ -3,7 +3,17 @@ body {
 }
 h1 {
     color:#b88c8c;
+    text-align: center; 
+    background-color: aliceblue;
+    font-size: 75px;
+    width: 40vw;
+    margin: 0 auto;
+    margin-top: 20px;
+
 }
 h2 {
     color:#d39494;
+}
+.poo {
+    display: block;
 }
