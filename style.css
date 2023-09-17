@@ -6,13 +6,42 @@ h1 {
     text-align: center; 
     background-color: aliceblue;
     font-size: 75px;
-    width: 40vw;
+    width: 50vw;
     margin: 0 auto;
     margin-top: 20px;
-
 }
-h2 {
+.secondheading {
     color:#d39494;
+}
+.second {
+    border: 2px solid #4d7a85;
+    padding: 5px;
+    width: 23;
+    font-size: 25px;
+    position: absolute;
+    top: 250px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.first { 
+    border: 2px solid #4d7a85;
+    padding: 5px;
+    width: 23;
+    font-size: 25px;
+    position: absolute;
+    top: 250px;
+    left: 25%;
+    transform: translate(-50%,-50%);
+}
+.third {
+    border: 2px solid #4d7a85;
+    padding: 5px;
+    width: 23;
+    font-size: 25px;
+    position: absolute;
+    top: 250px;
+    left: 75%;
+    transform: translate(-50%,-50%);
 }
 .poo {
     display: block;
